@@ -10,5 +10,6 @@ The code provided in this repository will generate a working code that can be ut
 
 ## Notes
 1. I think this is pretty well understood, but I have no part in what the hell you decide to do with this.
-2. The Xbox Game pass codes generated are only valid untill the 2022-12-01
-3. The event will end on the 30 july 2022. And is susceptible to change.
+2. The Xbox Game pass codes generated are only valid untill the <b>2022-12-01</b>
+3. The event will end on the <b>30 july 2022</b>. And is susceptible to change.
+4. If the generated code doesn't work, then generate it again.
