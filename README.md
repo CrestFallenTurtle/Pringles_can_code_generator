@@ -20,6 +20,6 @@ This will act as some sort of 'proof' that I've tried to contact them.
 The other times that I tried to contact them were through a form on their website, but this does not generate any form of auto-response that I can include here.
 
 ## Notes
-1. I think this is pretty well understood, but I have no responsibility on what you do with this.
+1. I think this is pretty well understood, but I have no responsibility on what you do with this. This should only be seen as proof-of-concept.
 2. The Xbox Game pass codes generated are only valid untill the <b>2022-12-01</b>
 3. The event will end on the <b>30 july 2022</b>. And is susceptible to change.
