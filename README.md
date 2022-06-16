@@ -1,6 +1,6 @@
 # Pringles Can Code Generator (2022)
 
-On the swedish version of the pringels [website](https://gaming.pringles.com/sv_SE/) there is currently an event going on.
+On multiple European versions of the pringels [website](https://gaming.pringles.com/sv_SE/) there is currently an event going on.
 
 ![A picture from the pringels website showcasing the event](https://github.com/s9rA16Bf4/Pringles_can_code_generator/blob/main/pictures/logo.png)
 
