@@ -2,7 +2,7 @@
 
 On multiple European versions of the pringels [website](https://gaming.pringles.com/sv_SE/) there is currently an event going on.
 
-![A picture from the pringels website showcasing the event](https://github.com/s9rA16Bf4/Pringles_can_code_generator/blob/main/pictures/logo.png)
+![A picture from the pringels website showcasing the event](pictures/logo.png)
 
 The purpose of the event is to win a custom made Xbox Series S. But it also says that for every new user who registers an account and provides a valid code will recieve a free month of Xbox Gamepass ultimate. This is where this project comes into play!
 
@@ -15,7 +15,7 @@ But this has not been effective as I've yet to gain any form of response from th
 I'll include an image below showcasing my message to one of the higher ups in their parent company.
 This will act as some sort of 'proof' that I've tried to contact them.
 
-![Image from contact to kelloggs](https://github.com/s9rA16Bf4/Pringles_can_code_generator/blob/main/pictures/contact.png)
+![Image from contact to kelloggs](pictures/contact.png)
 
 The other times that I tried to contact them were through a form on their website, but this does not generate any form of auto-response that I can include here.
 
